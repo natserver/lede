@@ -4,7 +4,7 @@
 
 / {
 	compatible = "phicomm,psg1218a", "phicomm,psg1218", "ralink,mt7620a-soc";
-	model = "Phicomm PSG1218 rev.A";
+	model = "Phicomm K2 rev.A";
 
 	aliases {
 		led-boot = &led_blue;
